@@ -7,4 +7,4 @@ this can be change in web:
 main.plugins.tmp_message.width = 16        # chars per line
 main.plugins.tmp_message.lines = 3         # lines per chunk
 main.plugins.tmp_message.interval = 4.0    # seconds between chunks
-main.plugins.tmp_message.indent = 0        # spaces (horizontal offset)
+main.plugins.tmp_message.indent = 0        # spaces (not work correactly) 
